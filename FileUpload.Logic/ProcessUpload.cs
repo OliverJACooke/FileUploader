@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Http;
 using System.IO;
+using FileUpload.DTOs;
+using System.Linq;
 
 namespace FileUpload.Logic
 {
@@ -26,7 +28,22 @@ namespace FileUpload.Logic
 
             IValidationStrategy validationStrategy = _validationFactory.Make(fileType);
 
-            validationStrategy.ValidateFile(file);
+            ValidationDTO validationDto = validationStrategy.ValidationStrategy(file);
+
+            if (!validationDto.ValidMimeTypes.Contains(file.ContentType, StringComparer.OrdinalIgnoreCase))
+            {
+                throw new FileUploadException("Invalid file type");
+            }
+
+            if (!validationDto.ValidExtentions.Contains(fileExtention, StringComparer.OrdinalIgnoreCase))
+            {
+                throw new FileUploadException("Invalid file type");
+            }
+
+            if (file.Length > validationDto.MaxFileSize)
+            {
+                throw new FileUploadException("File size to large");
+            }
 
         }
     }

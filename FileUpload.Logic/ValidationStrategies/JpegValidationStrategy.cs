@@ -9,16 +9,17 @@ namespace FileUpload.Logic.ValidationStrategies
 {
     public class JpegValidationStrategy : IValidationStrategy
     {
-        public ValidationDTO ValidateFile(IFormFile file)
+        public ValidationDTO ValidationStrategy(IFormFile file)
         {
             return new ValidationDTO
             {
                 ValidExtentions = new[]
                 {
-                    ""
+                    ".jpg",
+                    ".jpeg"
                 },
                 ValidMimeTypes = new[] {
-                    ""
+                    "image/jpeg"
                 },
                 MaxFileSize = 50000
             };

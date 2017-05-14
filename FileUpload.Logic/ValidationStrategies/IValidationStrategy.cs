@@ -13,6 +13,6 @@ namespace FileUpload.Logic
 
     public interface IValidationStrategy
     {
-        ValidationDTO ValidateFile(IFormFile file);
+        ValidationDTO ValidationStrategy(IFormFile file);
     }
 }
