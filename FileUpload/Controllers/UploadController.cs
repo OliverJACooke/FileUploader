@@ -21,15 +21,9 @@ namespace FileUpload.Controllers
         [HttpPost]
         public IActionResult Post(IFormFile file)
         {
-            _processUpload.ValidateUpload(file);
+            _processUpload.ProcessUploadedFile(file);
 
             return Ok();
-        }
-
-        [HttpGet]
-        public string GetHelloWorld()
-        {
-            return "Hello World!";
         }
     }
 }

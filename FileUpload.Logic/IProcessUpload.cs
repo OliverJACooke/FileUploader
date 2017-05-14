@@ -5,6 +5,6 @@ namespace FileUpload.Logic
 {
     public interface IProcessUpload
     {
-        void ValidateUpload(IFormFile file);
+        void ProcessUploadedFile(IFormFile file);
     }
 }
