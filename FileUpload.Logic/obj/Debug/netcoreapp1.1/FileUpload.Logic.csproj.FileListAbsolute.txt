@@ -9,3 +9,14 @@ C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.Logic
 C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.AssemblyInfo.cs
 C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.dll
 C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.pdb
+C:\Code\FileUpload\FileUpload.Logic\bin\Debug\netcoreapp1.1\FileUpload.Logic.deps.json
+C:\Code\FileUpload\FileUpload.Logic\bin\Debug\netcoreapp1.1\FileUpload.Logic.dll
+C:\Code\FileUpload\FileUpload.Logic\bin\Debug\netcoreapp1.1\FileUpload.Logic.pdb
+C:\Code\FileUpload\FileUpload.Logic\bin\Debug\netcoreapp1.1\FileUpload.DTOs.dll
+C:\Code\FileUpload\FileUpload.Logic\bin\Debug\netcoreapp1.1\FileUpload.Infrastructure.dll
+C:\Code\FileUpload\FileUpload.Logic\bin\Debug\netcoreapp1.1\FileUpload.DTOs.pdb
+C:\Code\FileUpload\FileUpload.Logic\bin\Debug\netcoreapp1.1\FileUpload.Infrastructure.pdb
+C:\Code\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.csprojResolveAssemblyReference.cache
+C:\Code\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.AssemblyInfo.cs
+C:\Code\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.dll
+C:\Code\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.pdb

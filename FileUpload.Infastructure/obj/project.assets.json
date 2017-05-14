@@ -9230,10 +9230,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Code\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj",
       "projectName": "FileUpload.Infrastructure",
-      "projectPath": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj",
-      "outputPath": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Infastructure\\obj\\",
+      "projectPath": "C:\\Code\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj",
+      "outputPath": "C:\\Code\\FileUpload\\FileUpload.Infastructure\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

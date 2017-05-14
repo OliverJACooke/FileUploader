@@ -7,6 +7,6 @@ namespace FileUpload.Logic
 {
     public interface IValidationFactory
     {
-        string Make(ValidFileTypes fileType);
+        IValidationStrategy Make(ValidFileTypes fileType);
     }
 }

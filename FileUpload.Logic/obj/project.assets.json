@@ -9257,10 +9257,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Logic\\FileUpload.Logic.csproj",
+      "projectUniqueName": "C:\\Code\\FileUpload\\FileUpload.Logic\\FileUpload.Logic.csproj",
       "projectName": "FileUpload.Logic",
-      "projectPath": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Logic\\FileUpload.Logic.csproj",
-      "outputPath": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Logic\\obj\\",
+      "projectPath": "C:\\Code\\FileUpload\\FileUpload.Logic\\FileUpload.Logic.csproj",
+      "outputPath": "C:\\Code\\FileUpload\\FileUpload.Logic\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -9268,11 +9268,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj"
+            "C:\\Code\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj": {
+              "projectPath": "C:\\Code\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj"
             },
-            "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.DTOs\\FileUpload.DTOs.csproj": {
-              "projectPath": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.DTOs\\FileUpload.DTOs.csproj"
+            "C:\\Code\\FileUpload\\FileUpload.DTOs\\FileUpload.DTOs.csproj": {
+              "projectPath": "C:\\Code\\FileUpload\\FileUpload.DTOs\\FileUpload.DTOs.csproj"
             }
           }
         }

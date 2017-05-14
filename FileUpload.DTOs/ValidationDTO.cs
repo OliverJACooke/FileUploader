@@ -6,8 +6,8 @@ namespace FileUpload.DTOs
 {
     public class ValidationDTO
     {
-        IEnumerable<string> ValidExtentions;
-        IEnumerable<string> ValidMimeTypes;
-        int MaxFileSize;
+        public string[] ValidExtentions;
+        public string[] ValidMimeTypes;
+        public int MaxFileSize;
     }
 }

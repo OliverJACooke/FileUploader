@@ -9820,10 +9820,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload\\FileUpload.Web.csproj",
+      "projectUniqueName": "C:\\Code\\FileUpload\\FileUpload\\FileUpload.Web.csproj",
       "projectName": "FileUpload.Web",
-      "projectPath": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload\\FileUpload.Web.csproj",
-      "outputPath": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload\\obj\\",
+      "projectPath": "C:\\Code\\FileUpload\\FileUpload\\FileUpload.Web.csproj",
+      "outputPath": "C:\\Code\\FileUpload\\FileUpload\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -9831,14 +9831,14 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj"
+            "C:\\Code\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj": {
+              "projectPath": "C:\\Code\\FileUpload\\FileUpload.Infastructure\\FileUpload.Infrastructure.csproj"
             },
-            "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.DTOs\\FileUpload.DTOs.csproj": {
-              "projectPath": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.DTOs\\FileUpload.DTOs.csproj"
+            "C:\\Code\\FileUpload\\FileUpload.DTOs\\FileUpload.DTOs.csproj": {
+              "projectPath": "C:\\Code\\FileUpload\\FileUpload.DTOs\\FileUpload.DTOs.csproj"
             },
-            "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Logic\\FileUpload.Logic.csproj": {
-              "projectPath": "C:\\Users\\ocook\\documents\\visual studio 2017\\Projects\\FileUpload\\FileUpload.Logic\\FileUpload.Logic.csproj"
+            "C:\\Code\\FileUpload\\FileUpload.Logic\\FileUpload.Logic.csproj": {
+              "projectPath": "C:\\Code\\FileUpload\\FileUpload.Logic\\FileUpload.Logic.csproj"
             }
           }
         }

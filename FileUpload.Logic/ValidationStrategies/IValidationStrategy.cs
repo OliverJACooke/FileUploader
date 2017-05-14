@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Http;
+using FileUpload.DTOs;
 
 namespace FileUpload.Logic
 {
@@ -12,6 +13,6 @@ namespace FileUpload.Logic
 
     public interface IValidationStrategy
     {
-        void ValidateFile(IFormFile file);
+        ValidationDTO ValidateFile(IFormFile file);
     }
 }

@@ -70,9 +70,10 @@ namespace FileUpload
 
             // Add application services. For instance:
             _container.Register<IProcessUpload, ProcessUpload>(Lifestyle.Scoped);
+            _container.Register<IValidationFactory, ValidationFactory>(Lifestyle.Scoped);
 
             // Cross-wire ASP.NET services (if any). For instance:
-           _container.RegisterSingleton(app.ApplicationServices.GetService<ILoggerFactory>());
+            _container.RegisterSingleton(app.ApplicationServices.GetService<ILoggerFactory>());
 
             // The following registers a Func<T> delegate that can be injected as singleton,
             // and on invocation resolves a MVC IViewBufferScope service for that request.

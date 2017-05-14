@@ -8,7 +8,14 @@ namespace FileUpload.Logic
 {
     public class ProcessUpload : IProcessUpload
     {
-        public void ProcessUploadedFile(IFormFile file)
+        public IValidationFactory _validationFactory;
+
+        public ProcessUpload(IValidationFactory validationFactory)
+        {
+            _validationFactory = validationFactory;
+        }
+
+        public void ProcessUploadedFile(IFormFile file, ValidFileTypes fileType)
         {
             if (file == null || file.Length < 0)
             {
@@ -17,6 +24,9 @@ namespace FileUpload.Logic
 
             string fileExtention = Path.GetExtension(file.FileName);
 
+            IValidationStrategy validationStrategy = _validationFactory.Make(fileType);
+
+            validationStrategy.ValidateFile(file);
 
         }
     }

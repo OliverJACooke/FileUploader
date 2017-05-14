@@ -13,3 +13,18 @@ C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload\bin\D
 C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.DTOs.pdb
 C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.Infrastructure.pdb
 C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.Logic.pdb
+C:\Code\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.Web.deps.json
+C:\Code\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.Web.runtimeconfig.json
+C:\Code\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.Web.runtimeconfig.dev.json
+C:\Code\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.Web.dll
+C:\Code\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.Web.pdb
+C:\Code\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.DTOs.dll
+C:\Code\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.Infrastructure.dll
+C:\Code\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.Logic.dll
+C:\Code\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.DTOs.pdb
+C:\Code\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.Infrastructure.pdb
+C:\Code\FileUpload\FileUpload\bin\Debug\netcoreapp1.1\FileUpload.Logic.pdb
+C:\Code\FileUpload\FileUpload\obj\Debug\netcoreapp1.1\FileUpload.Web.csprojResolveAssemblyReference.cache
+C:\Code\FileUpload\FileUpload\obj\Debug\netcoreapp1.1\FileUpload.Web.AssemblyInfo.cs
+C:\Code\FileUpload\FileUpload\obj\Debug\netcoreapp1.1\FileUpload.Web.dll
+C:\Code\FileUpload\FileUpload\obj\Debug\netcoreapp1.1\FileUpload.Web.pdb
