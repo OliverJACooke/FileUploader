@@ -1,0 +1,9 @@
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.DTOs\bin\Debug\netcoreapp1.1\FileUpload.DTOs.deps.json
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.DTOs\bin\Debug\netcoreapp1.1\FileUpload.DTOs.dll
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.DTOs\bin\Debug\netcoreapp1.1\FileUpload.DTOs.pdb
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.DTOs\bin\Debug\netcoreapp1.1\FileUpload.Infrastructure.dll
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.DTOs\bin\Debug\netcoreapp1.1\FileUpload.Infrastructure.pdb
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.DTOs\obj\Debug\netcoreapp1.1\FileUpload.DTOs.csprojResolveAssemblyReference.cache
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.DTOs\obj\Debug\netcoreapp1.1\FileUpload.DTOs.AssemblyInfo.cs
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.DTOs\obj\Debug\netcoreapp1.1\FileUpload.DTOs.dll
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.DTOs\obj\Debug\netcoreapp1.1\FileUpload.DTOs.pdb

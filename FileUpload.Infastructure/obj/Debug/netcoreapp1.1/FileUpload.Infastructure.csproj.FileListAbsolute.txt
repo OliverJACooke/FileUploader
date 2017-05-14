@@ -1,0 +1,7 @@
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.Infastructure\bin\Debug\netcoreapp1.1\FileUpload.Infastructure.deps.json
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.Infastructure\bin\Debug\netcoreapp1.1\FileUpload.Infastructure.dll
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.Infastructure\obj\Debug\netcoreapp1.1\FileUpload.Infastructure.AssemblyInfo.cs
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.Infastructure\obj\Debug\netcoreapp1.1\FileUpload.Infastructure.csprojResolveAssemblyReference.cache
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.Infastructure\bin\Debug\netcoreapp1.1\FileUpload.Infastructure.pdb
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.Infastructure\obj\Debug\netcoreapp1.1\FileUpload.Infastructure.dll
+C:\Users\ocook\documents\visual studio 2017\Projects\FileUpload\FileUpload.Infastructure\obj\Debug\netcoreapp1.1\FileUpload.Infastructure.pdb
