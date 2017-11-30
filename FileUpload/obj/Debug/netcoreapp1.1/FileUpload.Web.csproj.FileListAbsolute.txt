@@ -28,3 +28,5 @@ C:\Code\FileUpload\FileUpload\obj\Debug\netcoreapp1.1\FileUpload.Web.csprojResol
 C:\Code\FileUpload\FileUpload\obj\Debug\netcoreapp1.1\FileUpload.Web.AssemblyInfo.cs
 C:\Code\FileUpload\FileUpload\obj\Debug\netcoreapp1.1\FileUpload.Web.dll
 C:\Code\FileUpload\FileUpload\obj\Debug\netcoreapp1.1\FileUpload.Web.pdb
+C:\Code\FileUpload\FileUpload\obj\Debug\netcoreapp1.1\FileUpload.Web.csproj.CoreCompileInputs.cache
+C:\Code\FileUpload\FileUpload\obj\Debug\netcoreapp1.1\FileUpload.Web.AssemblyInfoInputs.cache

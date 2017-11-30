@@ -16,3 +16,5 @@ C:\Code\FileUpload\FileUpload.DTOs\obj\Debug\netcoreapp1.1\FileUpload.DTOs.cspro
 C:\Code\FileUpload\FileUpload.DTOs\obj\Debug\netcoreapp1.1\FileUpload.DTOs.AssemblyInfo.cs
 C:\Code\FileUpload\FileUpload.DTOs\obj\Debug\netcoreapp1.1\FileUpload.DTOs.dll
 C:\Code\FileUpload\FileUpload.DTOs\obj\Debug\netcoreapp1.1\FileUpload.DTOs.pdb
+C:\Code\FileUpload\FileUpload.DTOs\obj\Debug\netcoreapp1.1\FileUpload.DTOs.csproj.CoreCompileInputs.cache
+C:\Code\FileUpload\FileUpload.DTOs\obj\Debug\netcoreapp1.1\FileUpload.DTOs.AssemblyInfoInputs.cache

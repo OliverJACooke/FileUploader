@@ -12,3 +12,5 @@ C:\Code\FileUpload\FileUpload.Infastructure\obj\Debug\netcoreapp1.1\FileUpload.I
 C:\Code\FileUpload\FileUpload.Infastructure\obj\Debug\netcoreapp1.1\FileUpload.Infrastructure.AssemblyInfo.cs
 C:\Code\FileUpload\FileUpload.Infastructure\obj\Debug\netcoreapp1.1\FileUpload.Infrastructure.dll
 C:\Code\FileUpload\FileUpload.Infastructure\obj\Debug\netcoreapp1.1\FileUpload.Infrastructure.pdb
+C:\Code\FileUpload\FileUpload.Infastructure\obj\Debug\netcoreapp1.1\FileUpload.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\FileUpload\FileUpload.Infastructure\obj\Debug\netcoreapp1.1\FileUpload.Infrastructure.AssemblyInfoInputs.cache

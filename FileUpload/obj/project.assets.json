@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "Libuv/1.9.1": {
@@ -3655,6 +3655,12 @@
         "dependencies": {
           "FileUpload.Infrastructure": "1.0.0",
           "Microsoft.NETCore.App": "1.1.2"
+        },
+        "compile": {
+          "bin/placeholder/FileUpload.DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileUpload.DTOs.dll": {}
         }
       },
       "FileUpload.Infrastructure/1.0.0": {
@@ -3667,6 +3673,12 @@
           "SimpleInjector": "4.0.6",
           "SimpleInjector.Integration.AspNetCore": "4.0.6",
           "SimpleInjector.Integration.AspNetCore.Mvc": "4.0.6"
+        },
+        "compile": {
+          "bin/placeholder/FileUpload.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileUpload.Infrastructure.dll": {}
         }
       },
       "FileUpload.Logic/1.0.0": {
@@ -3676,6 +3688,12 @@
           "FileUpload.DTOs": "1.0.0",
           "FileUpload.Infrastructure": "1.0.0",
           "Microsoft.NETCore.App": "1.1.2"
+        },
+        "compile": {
+          "bin/placeholder/FileUpload.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileUpload.Logic.dll": {}
         }
       }
     }
@@ -9819,15 +9837,28 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\Code\\FileUpload\\FileUpload\\FileUpload.Web.csproj",
       "projectName": "FileUpload.Web",
       "projectPath": "C:\\Code\\FileUpload\\FileUpload\\FileUpload.Web.csproj",
+      "packagesPath": "C:\\Users\\ocook\\.nuget\\packages\\",
       "outputPath": "C:\\Code\\FileUpload\\FileUpload\\obj\\",
       "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ocook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
@@ -9842,6 +9873,11 @@
             }
           }
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {

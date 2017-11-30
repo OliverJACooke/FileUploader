@@ -20,3 +20,5 @@ C:\Code\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.csp
 C:\Code\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.AssemblyInfo.cs
 C:\Code\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.dll
 C:\Code\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.pdb
+C:\Code\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.csproj.CoreCompileInputs.cache
+C:\Code\FileUpload\FileUpload.Logic\obj\Debug\netcoreapp1.1\FileUpload.Logic.AssemblyInfoInputs.cache

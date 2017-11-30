@@ -19,9 +19,9 @@ namespace FileUpload.Controllers
         }
 
         [HttpPost("jpeg")]
-        public IActionResult Post(IFormFile file)
+        public IActionResult Post(IFormFile[] file)
         {
-            _processUpload.ProcessUploadedFile(file, ValidFileTypes.Jpeg);
+            _processUpload.ProcessUploadedFile(file.FirstOrDefault(), ValidFileTypes.Jpeg);
 
             return Ok();
         }
